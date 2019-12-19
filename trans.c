@@ -1,6 +1,5 @@
 /*
- * student ID: 516021910154
- * student NMAE: Xingyu Liu
+ * student NAME: Xingyu Liu
  */
 /*
  * trans.c - Matrix transpose B = A^T
