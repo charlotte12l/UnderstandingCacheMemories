@@ -24,11 +24,11 @@
 
 ## Files:
 
-# My Modiforcation for Handout
+### My Modiforcation for Handout
 - csim.c       My cache simulator
 - trans.c      My transpose function
 
-# Tools for evaluating your simulator and transpose function
+### Tools for evaluating your simulator and transpose function
 - Makefile     Builds the simulator and tools
 - README       This file
 - driver.py*   The driver program, runs test-csim and test-trans
