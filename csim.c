@@ -1,5 +1,4 @@
 /*
- * Student ID: 516021910154
  * Student NAME: Xingyu Liu
  */
 #include <stdlib.h>
